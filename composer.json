@@ -184,6 +184,10 @@
                 "Synchronize moderation states between all translations of the entity":
                 "https://www.drupal.org/files/issues/2020-06-17/sync_all_translations_states-3143559-18.patch"
             },
+            "drupal/purge": {
+                "Fix and prevent nasty 500 server errors when using varnish_purge_tags and varnish_purge.":
+                 "https://www.drupal.org/files/issues/2020-11-19/2976480-no-cache-and-dynamic-page-cache-9.patch"
+            },
             "drupal/pathauto": {
                 "Prevent duplicate aliases.":
                  "https://www.drupal.org/files/issues/2020-01-17/pathauto-3107144-2.patch"
