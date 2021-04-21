@@ -97,6 +97,8 @@
             "drupal/core": {
                 "BigPipe when server under heavy load results in PHP notices":
                 "https://www.drupal.org/files/issues/2021-01-24/3194462.patch",
+                "Performance and usability patch that replaces sansdesordre #3110371":
+                "https://www.drupal.org/files/issues/2021-04-21/D91x-3110371-4.patch",
                 "file usage bug fixes":
                 "https://www.drupal.org/files/issues/2020-04-03/2810355-64.patch",
                 "Improve wysiwyg entity embed media dialog add label to media hyperlinked to media":
