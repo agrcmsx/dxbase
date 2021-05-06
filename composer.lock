@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4b9f2e21c220b92f94bc375cb5999956",
+    "content-hash": "5e7944e5c9b561692ba13eeb500f5b50",
     "packages": [
         {
             "name": "acquia/lightning",
@@ -8978,17 +8978,11 @@
         },
         {
             "name": "drupal/linkchecker",
-            "version": "1.0.0-alpha1",
+            "version": "dev-1.x",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkchecker.git",
-                "reference": "8.x-1.0-alpha1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkchecker-8.x-1.0-alpha1.zip",
-                "reference": "8.x-1.0-alpha1",
-                "shasum": "ac87dadfd7d9ba27f36257b88d0f4d19085de630"
+                "reference": "5fb195580f6a70590e723c2e1f24fee7fb562af3"
             },
             "require": {
                 "drupal/core": "^8.8.0 || ^9",
@@ -8999,12 +8993,15 @@
             },
             "type": "drupal-module",
             "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
                 "drupal": {
-                    "version": "8.x-1.0-alpha1",
-                    "datestamp": "1608102789",
+                    "version": "8.x-1.0-alpha1+2-dev",
+                    "datestamp": "1612036689",
                     "security-coverage": {
                         "status": "not-covered",
-                        "message": "Alpha releases are not covered by Drupal security advisories."
+                        "message": "Dev releases are not covered by Drupal security advisories."
                     }
                 },
                 "drush": {
@@ -23155,7 +23152,7 @@
         "drupal/config_ignore": 20,
         "drupal/content_moderation_notifications": 20,
         "drupal/libraries": 10,
-        "drupal/linkchecker": 15,
+        "drupal/linkchecker": 20,
         "drupal/recreate_block_content": 20,
         "drupal/scanner": 20,
         "drupal/smtp": 20,

@@ -175,12 +175,8 @@
             "drupal/linkchecker": {
                 "Extraction status":
                 "https://www.drupal.org/files/issues/2020-12-08/3184613-extraction-status.patch",
-                "Broken links view should not show status code -1":
-                "https://www.drupal.org/files/issues/2020-12-17/3118914-4.patch",
                 "Update empty value for last_check field on broken links report":
                 "https://www.drupal.org/files/issues/2020-12-25/3112537-12.patch",
-                "Auto-select extractor if there is only one available":
-                "https://www.drupal.org/files/issues/2020-12-18/3133925-2.patch",
                 "Undefined offset error fix":
                 "https://www.drupal.org/files/issues/2020-08-24/undefined-offset-error-3065045-13.patch"
             },
@@ -275,7 +271,7 @@
         "drupal/jsonapi_explorer": "^1.0",
         "drupal/jquery_ui_datepicker": "^1.0",
         "drupal/libraries": "^3.0@beta",
-        "drupal/linkchecker": "^1.0@alpha",
+        "drupal/linkchecker": "^1.x-dev@dev",
         "drupal/linkit": "6.0-beta2 as 5.0-beta11",
         "drupal/link_attributes": "^1.10",
         "drupal/memcache": "^2.0",
