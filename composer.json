@@ -178,7 +178,9 @@
                 "Update empty value for last_check field on broken links report":
                 "https://www.drupal.org/files/issues/2020-12-25/3112537-12.patch",
                 "Undefined offset error fix":
-                "https://www.drupal.org/files/issues/2020-08-24/undefined-offset-error-3065045-13.patch"
+                "https://www.drupal.org/files/issues/2020-08-24/undefined-offset-error-3065045-13.patch",
+                "Linkchecker interval , 2 minute interval for debugging purposes":
+                "https://www.drupal.org/files/issues/2021-05-07/linkchecker-interval_for_debugging-3212816-3.patch"
             },
             "drupal/moderation_sidebar": {
                 "Synchronize moderation states between all translations of the entity":
