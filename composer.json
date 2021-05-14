@@ -284,7 +284,7 @@
         "drupal/purge": "^3.0",
         "drupal/recreate_block_content": "2.x-dev",
         "drupal/safedelete": "^1.0.20",
-        "drupal/scanner": "1.x-dev",
+        "drupal/scanner": "1.0-rc4",
         "drupal/sharedemail": "^2.1",
         "drupal/smtp": "1.x-dev",
         "drupal/swiftmailer": "^2.0",
