@@ -103,6 +103,8 @@
             "drupal/core": {
                 "BigPipe when server under heavy load results in PHP notices":
                 "https://www.drupal.org/files/issues/2021-01-24/3194462.patch",
+                "Switch from xhtml to html5 validation":
+                "https://www.drupal.org/files/issues/2021-07-21/2441811-19.patch",
                 "Performance and usability patch that replaces sansdesordre #3110371":
                 "https://www.drupal.org/files/issues/2020-02-03/3110371-4.patch",
                 "Performance and scalability, do not load disabled menu links on the add/node /edit/node page/route.":
