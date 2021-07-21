@@ -97,6 +97,8 @@
             "drupal/core": {
                 "BigPipe when server under heavy load results in PHP notices":
                 "https://www.drupal.org/files/issues/2021-01-24/3194462.patch",
+                "Switch from xhtml to html5 validation":
+                "https://www.drupal.org/files/issues/2021-07-21/2441811-19.patch",
                 "Performance and usability patch that replaces sansdesordre #3110371":
                 "https://www.drupal.org/files/issues/2021-04-21/D91x-3110371-4.patch",
                 "Performance and scalability, do not load disabled menu links on the add/node /edit/node page/route.":
@@ -250,7 +252,7 @@
         "drupal/devel_kint_extras": "^1.0",
         "drupal/dynamic_entity_reference": "^2.0@alpha",
         "drupal/entity_embed": "^1.0",
-        "drupal/entity_translation_unified_form": "^1.0-beta16",
+        "drupal/entity_translation_unified_form": "^1.0-beta19",
         "drupal/entityqueue": "^1.0",
         "drupal/file_delete": "^1.0",
         "drupal/filehash": "^1.4",
