@@ -118,11 +118,7 @@
                 "Node preview current language":
                 "https://www.drupal.org/files/issues/2020-06-20/node-preview_current_language-3150728-12.patch",
                 "Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
-                "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
-                "2922570 - Performance fix to replace patch 61 of same issue.":
-                "https://www.drupal.org/files/issues/2021-06-29/D91x-2922570-88.patch",
-                "1356276 - Overrides for profile and sub profile by mpotter-balsa use patch 656 on D9.1.10 instead of 633.":
-                "https://www.drupal.org/files/issues/2021-06-29/D91x-1356276-656.patch"
+                "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch"
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 12.":
@@ -246,7 +242,6 @@
         "drupal/content_moderation_notifications": "3.x-dev",
         "drupal/console": "^1.9",
         "drupal/convert_bundles": "^1.0",
-        "drupal/core": "9.1.10 as 9.1.9",
         "drupal/devel": "^4.0",
         "drupal/devel_entity_updates": "^3.0",
         "drupal/devel_kint_extras": "^1.0",
