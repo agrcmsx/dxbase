@@ -7,4 +7,4 @@ as a composer require.
 
 fork dxproject as a baseline to start with
 
-https://github.com/entreprise7pro/dxproject
+https://github.com/agrcmsx/dxproject.git
