@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1feffb8b30a6a465a7f554b7f1dd7b2a",
+    "content-hash": "50b1f570cf7085289fccbe2ecb6a8205",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -6203,17 +6203,17 @@
         },
         {
             "name": "drupal/entity_translation_unified_form",
-            "version": "1.0.0-beta19",
+            "version": "1.0.0-beta21",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/entity_translation_unified_form.git",
-                "reference": "8.x-1.0-beta19"
+                "reference": "8.x-1.0-beta21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/entity_translation_unified_form-8.x-1.0-beta19.zip",
-                "reference": "8.x-1.0-beta19",
-                "shasum": "e6d905dc5f32f2aaef87b237143e5e2382158b59"
+                "url": "https://ftp.drupal.org/files/projects/entity_translation_unified_form-8.x-1.0-beta21.zip",
+                "reference": "8.x-1.0-beta21",
+                "shasum": "fc6aa7ddf42614cdd89402fd28da542c34869184"
             },
             "require": {
                 "drupal/core": "^8 || ^9"
@@ -6221,8 +6221,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.0-beta19",
-                    "datestamp": "1626823734",
+                    "version": "8.x-1.0-beta21",
+                    "datestamp": "1631319582",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
