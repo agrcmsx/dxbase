@@ -175,14 +175,10 @@
                 "https://www.drupal.org/files/issues/2019-11-29/lightning_bulk_upload_form-3097516-2.patch"
             },
             "drupal/linkchecker": {
-                "Extraction status":
-                "https://www.drupal.org/files/issues/2020-12-08/3184613-extraction-status.patch",
-                "Update empty value for last_check field on broken links report":
-                "https://www.drupal.org/files/issues/2020-12-25/3112537-12.patch",
-                "Linkchecker interval , 2 minute interval for debugging purposes":
-                "https://www.drupal.org/files/issues/2021-05-07/linkchecker-interval_for_debugging-3212816-3.patch",
-                "Allow linkchecker to work in a non-standard environment, provide host and port substitution.":
-                "https://www.drupal.org/files/issues/2021-05-14/3213210_13.patch"
+                "Extraction status": "https://www.drupal.org/files/issues/2020-12-08/3184613-extraction-status.patch",
+                "Linkchecker interval , 2 minute interval for debugging purposes": "https://www.drupal.org/files/issues/2021-05-07/linkchecker-interval_for_debugging-3212816-3.patch",
+                "Update empty value for last_check field on broken links report": "https://www.drupal.org/files/issues/2020-12-25/3112537-12.patch",
+                "Allow linkchecker to work in a non-standard environment, provide host and port substitution.": "https://www.drupal.org/files/issues/2021-05-14/3213210_13.patch"
             },
             "drupal/moderation_sidebar": {
                 "Synchronize moderation states between all translations of the entity":
