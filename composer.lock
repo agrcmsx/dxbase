@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fc50c008a35607bb2d512f2b8cd0b7a9",
+    "content-hash": "05f6f82f85860604a80b5b57189d293a",
     "packages": [
         {
             "name": "acquia/lightning",
@@ -9059,7 +9059,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkchecker.git",
-                "reference": "5fb195580f6a70590e723c2e1f24fee7fb562af3"
+                "reference": "c92948d61b1db21349af574e709978b6aa1bbd2e"
             },
             "require": {
                 "drupal/core": "^8.8.0 || ^9",
@@ -9074,8 +9074,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-1.0-alpha1+2-dev",
-                    "datestamp": "1612036689",
+                    "version": "8.x-1.0-alpha1+4-dev",
+                    "datestamp": "1622840744",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
