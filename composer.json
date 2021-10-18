@@ -136,7 +136,7 @@
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 9.":
-                "https://www.drupal.org/files/issues/2019-11-21/access_unpublished-3054536-9.patch",
+                "https://www.drupal.org/files/issues/2021-05-21/v1.1-access_unpublished-3054536-12.patch",
                 "Fix token-create while editing a French node":
                 "https://www.drupal.org/files/issues/2019-03-20/access_unpublished-create_per_language_tokens-2958800-3.patch",
                 "Edge case can result in null route - hasPendingRevision() validate for null.":
