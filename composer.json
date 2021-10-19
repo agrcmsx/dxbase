@@ -269,7 +269,7 @@
         "drupal/git_status": "^1.0",
         "drupal/ultimate_cron": "^2.0@alpha",
         "drupal/workflow": "^1.4",
-        "drupalwxt/wxt": "^4.1.x-dev",
+        "drupalwxt/wxt": "^4.1.1",
         "drush/drush": "^10.0",
         "psr/container": "^1.0",
         "scssphp/scssphp": "^1.1",
