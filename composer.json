@@ -115,8 +115,9 @@
                 "https://www.drupal.org/files/issues/2020-06-20/node-preview_current_language-3150728-12.patch",
                 "Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
                 "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
-                "1356276 profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-10-21/1356276-673.patch",
-                "2559833 comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch"
+                "1356276 - Profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-10-21/1356276-673.patch",
+                "2559833 - Comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch",
+                "2985168 - Add pencil to slideshow thumb nav edit, however it's actually an edit button": "https://www.drupal.org/files/issues/2021-11-03/drupal-2985168-903-106-media-widget-edit-button.patch"
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 9.":
