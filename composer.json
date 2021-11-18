@@ -114,7 +114,9 @@
                 "Node preview current language":
                 "https://www.drupal.org/files/issues/2020-06-20/node-preview_current_language-3150728-12.patch",
                 "Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
-                "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch"
+                "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
+                "Call to a member function isTranslatable() on null in _menu_ui_node_save":
+                "https://www.drupal.org/files/issues/2021-11-01/member-function-isTranslatable-on-null-3247045-02.patch"
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 9.":
