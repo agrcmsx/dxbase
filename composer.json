@@ -116,7 +116,8 @@
                 "Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
                 "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
                 "1356276 - Profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-10-21/1356276-673.patch",
-                "2559833 - Comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch"
+                "2559833 - Comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch",
+                "Call to a member function isTranslatable() on null in _menu_ui_node_save": "https://www.drupal.org/files/issues/2021-11-01/member-function-isTranslatable-on-null-3247045-02.patch"
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 9.":
