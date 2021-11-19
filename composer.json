@@ -96,9 +96,11 @@
         "patches": {
             "drupal/core": {
                 "BigPipe when server under heavy load results in PHP notices":
-                "https://www.drupal.org/files/issues/2021-01-24/3194462.patch",
+                "https://www.drupal.org/files/issues/2021-11-19/D93x-3194462-20.patch",
                 "Performance and usability patch that replaces sansdesordre #3110371":
                 "https://www.drupal.org/files/issues/2021-04-21/D91x-3110371-4.patch",
+                "2907413 - Layout builder override wxt":
+                "https://www.drupal.org/files/issues/2021-11-19/D93x-2907413-23.patch",
                 "Performance and scalability, do not load disabled menu links on the add/node /edit/node page/route.":
                 "https://www.drupal.org/files/issues/2021-04-21/D9_performance_and_scalability-3202930-6.patch",
                 "file usage bug fixes":
@@ -113,13 +115,11 @@
                 "https://www.drupal.org/files/issues/2020-12-14/D9-2454289-101.patch",
                 "Node preview current language":
                 "https://www.drupal.org/files/issues/2020-06-20/node-preview_current_language-3150728-12.patch",
-                "Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
+                "2951294 - Language negotiation core fix, needed by access_unpublished and content moderation for forward draft revisions in non default language.":
                 "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
-                "Call to a member function isTranslatable() on null in _menu_ui_node_save":
-                "https://www.drupal.org/files/issues/2021-11-01/member-function-isTranslatable-on-null-3247045-02.patch",
-                "1356276 - Profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-10-21/1356276-673.patch",
+                "1356276 - Profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-11-18/1356276-675.patch",
                 "2559833 - Comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch",
-                "Call to a member function isTranslatable() on null in _menu_ui_node_save": "https://www.drupal.org/files/issues/2021-11-01/member-function-isTranslatable-on-null-3247045-02.patch"
+                "3247045 - Call to isTranslatable() on null in _menu_ui_node_save": "https://www.drupal.org/files/issues/2021-11-19/D93xBeta2-member-function-isTranslatable-on-null-3247045-12.patch"
             },
             "drupal/access_unpublished": {
                 "Adds a twig extension for access unpublished hash key link, patch 9.":
@@ -211,6 +211,7 @@
                     "2470896 - Fixed in 9.2.0 make book navigation translateable": "https://www.drupal.org/files/issues/2021-06-10/2470896-244.patch",
                     "2559833 - Comment form": "https://www.drupal.org/files/issues/2020-10-31/2559833-72.patch",
                     "2630732 - Migrate module we don't use currently": "https://www.drupal.org/files/issues/2020-09-17/2630732-77.patch",
+                    "2907413 - Reroll needed override above for 9.3.0": "https://www.drupal.org/files/issues/2019-06-21/2907413-11.patch",
                     "2922570 - Fixed in 9.3.0": "https://www.drupal.org/files/issues/2021-06-29/D91x-2922570-88.patch",
                     "2998826 - Fixed in 9.2.0": "https://www.drupal.org/files/issues/2021-03-17/core-Term_route_context-2998826-93.patch"
                 }
@@ -222,7 +223,7 @@
     "require": {
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.7",
-        "drupal/core": "9.3.0-beta1 as 9.1.13",
+        "drupal/core": "9.3.0-beta2 as 9.1.13",
         "drupal/core-composer-scaffold": "*",
         "drupal/cshs": "^2.3",
         "drupal/access_unpublished": "^1.0",
