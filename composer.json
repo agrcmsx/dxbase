@@ -119,7 +119,7 @@
                 "https://www.drupal.org/files/issues/2021-06-29/drupal-fix_fallback-2951294-39.patch",
                 "1356276 - Profile sub profiles phenaproxima": "https://www.drupal.org/files/issues/2021-11-18/1356276-675.patch",
                 "2559833 - Comment form redirect": "https://www.drupal.org/files/issues/2021-06-02/comment_form_redirect-2559833-87.patch",
-                "3247045 - Call to isTranslatable() on null in _menu_ui_node_save": "https://www.drupal.org/files/issues/2021-11-19/D93xBeta2-member-function-isTranslatable-on-null-3247045-12.patch",
+                "3247045 - Call to isTranslatable() on null in _menu_ui_node_save": "https://www.drupal.org/files/issues/2021-12-02/D94x-dev-member-function-isTranslatable-on-null-3247045-15.patch",
                 "2931680 - Term weight translatability, order term translations differently": "https://www.drupal.org/files/issues/2021-11-22/D93x-2931680-25-reroll.patch"
             },
             "drupal/access_unpublished": {
